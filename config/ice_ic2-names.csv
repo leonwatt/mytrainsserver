@@ -105,11 +105,6 @@ vehicleNumber,name
 4606,Limburg an der Lahn
 173,Timmendorfer Strand
 190,Ludwigshafen am Rhein
-104,Mühldorf a. Inn
-111,Nürnberg
-112,Memmingen
-115,Regensburg
-302,Hansestadt Lübeck
 159,Bad Oldesloe
 1118,Plauen/Vogtland
 221,Lübbenau/Spreewald
@@ -138,7 +133,6 @@ vehicleNumber,name
 307,Oberhausen
 156,Freilassing
 110,Gelsenkirchen
-1159,Passau
 4613,Schwäbisch Hall
 313,Treuchtlingen
 160,Mülheim an der Ruhr
@@ -147,8 +141,6 @@ vehicleNumber,name
 180,Castrop-Rauxel
 167,Rüdesheim am Rhein
 1128,Reutlingen
-1108,Berlin
-1111,Hansestadt Wismar
 113,Frankenthal/Pfalz
 107,Itzehoe
 114,Friedrichshafen
@@ -159,40 +151,19 @@ vehicleNumber,name
 117,Hof
 201,Rheinsberg
 162,Geisenheim/Rheingau
-107,Plattling
 174,Zürich
-106,Itzehoe
 167,Garmisch-Partenkirchen
 210,Fontanestadt Neuruppin
-188,Rüdesheim am Rhein
 229,Templin
 1171,Oschatz
-4682,Köln
 1165,Bad Oeynhausen
 351,Herford
 1156,Waren (Müritz)
 1177,Rathenow
-4680,Würzburg
 169,Worms
-1184,Kaiserslautern
-1524,Hansestadt Rostock
 4612,Forbach-Lorraine
-312,Montabaur
 314,Bergisch Gladbach
-4683,Limburg an der Lahn
-1173,Halle (Saale)
-1176,Coburg
-1180,Darmstadt
-1520,Gotha
-1181,Horb am Neckar
-1521,Homburg/Saar
-1183,Oberursel (Taunus)
-1523,Hansestadt Greifswald
 1191,Salzburg
-1182,Mainz
-1522,Torgau
-4684,Forbach-Lorraine
-4685,Schwäbisch Hall
 236,Jüterbog
 222,Eberswalde
 1160,Markt Holzkirchen
@@ -200,40 +171,28 @@ vehicleNumber,name
 157,Landshut
 1153,Ilmenau
 324,Fürth
-172,Mülheim an der Ruhr
 5510,Wehrheim (Taunus)
 326,Neunkirchen
-183,Timmendorfer Strand
-1172,Bamberg
 213,Nauen
 181,Interlaken
 5517,København
 1190,Wien
-189,Castrop-Rauxel
-160,Flensburg
 335,Konstanz
-182,Rüdesheim am Rhein
 358,St. Ingbert
 315,Singen (Hohentwiel)
-188,Hildesheim
 309,Aalen
 323,Schaffhausen
-185,Freilassing
-156,Heppenheim/Bergstraße
 211,Uelzen
-154,Flensburg
 5507,Århus
 1154,Sonneberg
 5518,Jever
 1192,Linz
 237,Neustrelitz
-160,Mülheim an der Ruhr
 361,Celle
 1152,Travemünde
 359,Leverkusen
-215,Bitterfeld-Wolfen
 228,Altenburg
-225,Oldenburg (Oldb)
+215,Bitterfeld-Wolfen
 1158,Falkenberg/Elster
 1161,Andernach
 1157,Innsbruck
@@ -242,7 +201,6 @@ vehicleNumber,name
 1169,Tutzing
 5505,Ostseebad Heringsdorf
 1167,Traunstein
-331,Westerland
 352,Mönchengladbach
 103,Neu-Isenburg
 1163,Ostseebad Binz
@@ -254,40 +212,24 @@ vehicleNumber,name
 1175,Villingen-Schwenningen
 1164,Rödental
 1170,Prenzlau
-180,Castrop-Rauxel
 1168,Ellwangen
 1174,Hansestadt Warburg
-182,Rüdesheim
-172,Aschaffenburg
-104,Fulda
-187,Mühldorf a. Inn
-1505,Marburg/Lahn
 353,Neu-Ulm
 308,Murnau am Staffelsee
 355,Tuttlingen
 1155,Mühlhausen/Thüringen
 354,Mittenwald
-179,Chur
 186,Chur
 320,Weil am Rhein
-118,Gelnhausen
-177,Rendsburg
-173,Basel
-175,Nürnberg
 4604,Brussel/Bruxelles
-102,Jever
 4717,Paris
 333,Goslar
-357,Esslingen am Neckar
-331,Westerland/Sylt
 363,Weilheim i. OB
-1505,Marburg
-1183,Oberursel (Taunus)
 4601,Europa/Europe
 4712,Dillingen a.d. Donau
 4602,Euregio Maas-Rhein
 306,Nördlingen
-182,Rüdesheim am Rhein
+4710,Ansbach
 2871,Leipziger Neuseenland
 2875,Magdeburger Börde
 9006,Martin Luther
@@ -307,3 +249,7 @@ vehicleNumber,name
 4111,Gäu
 9202,Schleswig-Holstein
 9481,Rheinland-Pfalz
+4103,Allgäu
+4898,Lahntal
+4102,Naturpark Schönbuch
+8007,Rheinland
